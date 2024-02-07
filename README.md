@@ -11,13 +11,13 @@ IMPORTANT SINGLE TIME STEPS:
 ![Screenshot](help_screenshots/open_server_folder.PNG?raw=true)
 - Then navigate to Pal/Saved/SaveGames/0/<some random id>/
 - Copy the path fully till <some random ID>. Should look something like below (the last id might be different)
-'''
+```
     C:\Program Files (x86)\Steam\steamapps\common\PalServer\Pal\Saved\SaveGames\0\26198D214E541E0547521CBE03B0BB86\
-'''
+```
 - Come back to github local folder, edit the save_dir.bat, and paste this path within quotes insidelike this
-'''
+```
     set save_dir="C:\Program Files (x86)\Steam\steamapps\common\PalServer\Pal\Saved\SaveGames\0\26198D214E541E0547521CBE03B0BB86\"
-'''
+```
 - Then double-click to run the "sync_pull.bat" command once to sync with github remote repo
 - One time setup is done.
 
