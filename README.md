@@ -9,8 +9,8 @@
 - Go to Palworld server directory. Palworld Dedicated Server -> Properties -> Installed Files -> Browse
 ![Screenshot](help_screenshots/open_properties.PNG?raw=true)
 ![Screenshot](help_screenshots/open_server_folder.PNG?raw=true)
-- Then navigate to Pal/Saved/SaveGames/0/<some random id>/
-- Copy the path fully till <some random ID>. Should look something like below (the last id might be different)
+- Then navigate to Pal/Saved/SaveGames/0/\<some random id\>/
+- Copy the path fully till \<some random ID\>. Should look something like below (the last id might be different)
 ```
     C:\Program Files (x86)\Steam\steamapps\common\PalServer\Pal\Saved\SaveGames\0\26198D214E541E0547521CBE03B0BB86\
 ```
