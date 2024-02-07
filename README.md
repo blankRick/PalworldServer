@@ -1,14 +1,14 @@
 # PalworldServer
 IMPORTANT SINGLE TIME STEPS: 
 - In steam enable tools to see dedicated palworld server
-![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/enable_tools.PNG)
+![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/enable_tools.PNG?raw=true)
 - Launch palworld dedicated server
-![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/launch_palworld_server.PNG)
-![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/launch_dedicated.PNG)
+![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/launch_palworld_server.PNG?raw=true)
+![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/launch_dedicated.PNG?raw=true)
 - After a window pops up with App ID close it. Your initial saved game is created. We just need to overwrite it now.
 - Go to Palworld server directory. Palworld Dedicated Server -> Properties -> Installed Files -> Browse
-![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/open_properties.PNG)
-![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/open_server_folder.PNG)
+![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/open_properties.PNG?raw=true)
+![Alt text](https://github.com/blankRick/PalworldServer/tree/main/help_screenshots/open_server_folder.PNG?raw=true)
 - Then navigate to Pal/Saved/SaveGames/0/<some random id>/
 - Copy the path fully till <some random ID>. Should look something like below (the last id might be different)
 '''
