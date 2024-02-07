@@ -18,6 +18,8 @@ set secs=%time:~6,2%
 if "%secs:~0,1%" == " " set secs=0%secs:~1,1%
 
 set year=%date:~-4%
+set month=%date:~4,2%
+set day=%date:~7,2%
 set datetimef=%year%%month%%day%_%hour%%min%%secs%
 
 git commit -m %datetimef%
