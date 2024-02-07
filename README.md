@@ -1,5 +1,5 @@
 # PalworldServer
-IMPORTANT SINGLE TIME STEPS: 
+## IMPORTANT SINGLE TIME STEPS: 
 - In steam enable tools to see dedicated palworld server
 ![Screenshot](help_screenshots/enable_tools.PNG?raw=true)
 - Launch palworld dedicated server
@@ -21,5 +21,6 @@ IMPORTANT SINGLE TIME STEPS:
 - Then double-click to run the "sync_pull.bat" command once to sync with github remote repo
 - One time setup is done.
 
-1. Before starting server do sync_pull.bat
-2. After closing server do sync_push.bat
+## Steps to do before and after you play
+- Before starting server do sync_pull.bat
+- After closing server do sync_push.bat
