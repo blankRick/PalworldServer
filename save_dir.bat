@@ -1,1 +1,1 @@
-set save_dir="C:\Program Files (x86)\Steam\steamapps\common\PalServer\Pal\Saved\SaveGames\0\26198D214E541E0547521CBE03B0BB86\"
+set save_dir="C:\Users\adna1\AppData\Local\Pal\Saved\SaveGames\76561198361665049\FE0DD65547C2DBFAADCDC9A194A900A9\"
