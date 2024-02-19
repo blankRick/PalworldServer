@@ -1,13 +1,13 @@
 call save_dir.bat
 
 echo %save_dir%
-pause 
+#pause 
 xcopy %save_dir%\Players Players /s /y
 xcopy %save_dir%\Level.sav . /s /y
 xcopy %save_dir%\LevelMeta.sav . /s /y
 xcopy %save_dir%\LocalData.sav . /s /y
 xcopy %save_dir%\WorldOption.sav . /s /y
-pause
+#pause
 git add .
 
 set hour=%time:~0,2%
@@ -24,4 +24,4 @@ set datetimef=%year%%month%%day%_%hour%%min%%secs%
 
 git commit -m %datetimef%
 git push 
-pause
+#pause
